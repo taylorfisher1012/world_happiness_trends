@@ -13,11 +13,15 @@ https://en.wikipedia.org/wiki/List_of_minimum_annual_leave_by_country
 
 
 Data Questions:
-1. What is the happiest country in the world? 
+1. What is the happiest country in the world in 2023? 
 
-2. Has the top 10 happiest countries changed drastically in the past 10 years? Is there a specific varible that correlates to a countries happiness?
+2. Has the top happiest countries changed drastically in the past 10 years? Is there a specific varible that correlates to a countries happiness?
 
-3. Does the number of paid days off by the countries government have a correlation to the happiness of the country? 
+3. Does the number of paid days off by the countries government have a correlation to the happiness of the country? Does the average work hours have any correlation?
+
+4. How does affordability/accessability to healthcare correlate to the happiness of the country if at all?
+
+5. Do crime rates correlate to the happiness of a country? 
 
 Known Challenges - 
 The happiness index that was created by The Gallup Poll needed to be converted to a csv as it was originally an excel file. So, cleaning required checking each column to change or validate that is was in the correct data type for use in python. 
